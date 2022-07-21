@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A young IT professional that likes making notes hoping they'd make my job easier. Maybe help others. 
 
 ### More Information
 
-A young IT professional that likes making notes hoping they'd make my job easier. Maybe help others. 
+Still working on this. 
 
 ### Contact me
 
